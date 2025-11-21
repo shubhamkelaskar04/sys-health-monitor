@@ -188,7 +188,6 @@ display_menu
 
 
 ```
-LOG_FILE="$HOME/sys_health.log"
 ```
 
 
