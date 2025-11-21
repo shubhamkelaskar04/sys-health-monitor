@@ -193,4 +193,3 @@ LOG_FILE="$HOME/sys_health.log"
 
 
 
-Just tell me **“make it more professional”** or **“upload to GitHub guide”**.
