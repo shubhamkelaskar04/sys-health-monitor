@@ -185,26 +185,7 @@ display_menu
 
 ---
 
-## ⚠️ Permission Issues (From Your Screenshot)
 
-When generating a full report, you got:
-
-```
-/var/log/sys_health.log: Permission denied
-```
-
-This happens because normal users cannot write inside `/var/log`.
-
-### ✅ Fix (recommended):
-
-Run the script with sudo:
-
-```bash
-sudo ./sys_health_reporter.sh
-```
-
-OR
-Change log path inside your script:
 
 ```
 LOG_FILE="$HOME/sys_health.log"
