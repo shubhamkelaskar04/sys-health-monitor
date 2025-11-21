@@ -1,10 +1,5 @@
 # **Automated System Health Monitoring Script**
 
-A simple and effective Bash script to monitor key system metrics like disk usage, running services, memory status, and CPU performance.
-This tool is especially useful for beginners, Linux learners, and system administrators who want quick system insights using a menu-driven script.
-
----
-
 ## 🔧 **Features**
 
 ✔️ Check Disk Usage
